@@ -1,7 +1,5 @@
 <?php
-// ========================================
-// Online Bookstore - Week 1 Assignment
-// ========================================
+
 
 // 1. BOOK INVENTORY (Arrays)
 $books = [
@@ -12,21 +10,21 @@ $books = [
         'price' => 29.99
     ],
     [
-        'title' => 'Foundation',
-        'author' => 'Isaac Asimov',
-        'genre' => 'Science Fiction',
+        'title' => 'Dorian Gray',
+        'author' => 'Oscar Wilde',
+        'genre' => 'Drama',
         'price' => 24.99
     ],
     [
-        'title' => 'The Hobbit',
-        'author' => 'J.R.R. Tolkien',
+        'title' => 'Little Prince',
+        'author' => 'Antoine de Saint-Exupéry',
         'genre' => 'Fantasy',
         'price' => 19.99
     ],
     [
-        'title' => '1984',
-        'author' => 'George Orwell',
-        'genre' => 'Dystopian',
+        'title' => 'Origin',
+        'author' => 'Dan Brown',
+        'genre' => 'Thriller',
         'price' => 18.99
     ]
 ];
